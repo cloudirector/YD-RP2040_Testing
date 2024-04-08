@@ -6,8 +6,3 @@
 
 > The Board
 > > * https://www.aliexpress.us/item/3256803817805852.html
-> > > <details>
-> > > <summary>YD-RP2040-LITE-SCH</summary>
-> > > <br>
-> > > 
-> > > </details>
