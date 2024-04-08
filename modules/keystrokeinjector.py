@@ -1,3 +1,4 @@
+# main module
 import time
 import board
 import digitalio

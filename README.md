@@ -13,3 +13,10 @@
 
 > ### Setup
 > > 
+
+> ### Usage
+> > Click Button Once to start a session.
+> >
+> > Once in Session the light should be blinking
+> >
+> > Click and hold on blue first module hold on blank second module
