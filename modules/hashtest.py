@@ -16,7 +16,7 @@ print(f"[*]     Imported {num_modules} Modules [{execution_time}ms]")
 
 def hashtest(nonces):
     wrapper_start_time = time.monotonic()
-    print("[*] Running HashTest With {nonces} nonces...")
+    print(f"[*] Running HashTest With {nonces} nonces...")
     for nonce in range(nonces):
         start_time = time.monotonic()
         hashed_nonce = sha256(str(nonce))
