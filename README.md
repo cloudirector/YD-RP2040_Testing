@@ -69,3 +69,5 @@ Click Button Once to start a session.
 Once in Session the light should be blinking.
 
 Click and hold on the blue first module, hold on the blank second module.
+
+The first module is a sha265 benchmark and the second one is just rubberducky
